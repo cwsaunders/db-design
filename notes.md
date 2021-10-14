@@ -52,3 +52,11 @@ written design of the database.
 <b>Designer's Perspective:</b><br>
 - Conceptual (cognitive) --> logical --> physical<br>
 - DB Admin perspective: physical --> logical
+
+<br>
+<b>Universal Modeling Language:</b><br>
+- More complex than ER diagrams<br>
+- More often used in recent times<br>
+- DDL (data definition language) for class: SQL<br>
+- DML (data manipulation language): entering, modifying, deleting items. SQL<br>
+- Query language: SQL.<br>
