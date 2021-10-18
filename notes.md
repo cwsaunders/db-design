@@ -59,4 +59,4 @@ written design of the database.
 - More often used in recent times<br>
 - DDL (data definition language) for class: SQL<br>
 - DML (data manipulation language): entering, modifying, deleting items. SQL<br>
-- Query language: SQL.<br>
+- Query language: SQL.<br> 
